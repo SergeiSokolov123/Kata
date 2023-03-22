@@ -72,7 +72,7 @@ public class Main {
             case 7 -> result += "VII";
             case 8 -> result += "VIII";
             case 9 -> result += "IX";
-            case 10 -> result += "X";
+           
         }
 
         return result;
